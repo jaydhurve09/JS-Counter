@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: "Poppins", serif;
+}
+
+.count{
+    font-size: 3rem;
+}
+
+button{
+    padding: 10px 16px;
+    background-color: aqua;
+    border: 1px solid grey;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+input{
+    height: 2rem;
+    width: 3rem;
+}
